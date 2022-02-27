@@ -39,7 +39,7 @@ For this Deliverable, I extracted and transformed the Kaggle data and ratings 'E
 For this Deliverable, I uploaded the transformed movies_df and rating CSV data to a SQL database 'ETL_create_database.ipynb'.
 
 ### movies_query.png (query run from SQL database)
-![](https://github.com/Beetleee/School_District_Analysis/blob/main/resources/percentages_on_new.png)
+![](https://github.com/Beetleee/Movies_ETL/blob/main/Resources/movies_query.png)
 
 ### ratings_query.png (query run from SQL database)
 ![](https://github.com/Beetleee/School_District_Analysis/blob/main/resources/percentages_on_new.png)
