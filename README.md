@@ -28,7 +28,7 @@ For this Deliverable, I extracted and transformed the Wikipedia-derived data 'ET
 ## Deliverable 3: Extract and Transform the Kaggle data
 For this Deliverable, I extracted and transformed the Kaggle data and ratings 'ETL_clean_kaggle_data.ipynb', and merged them similar to Deliverable #2.
 ### movies_with_ratings_df  
-![](https://github.com/Beetleee/Movies_ETL/blob/main/Resources/D3_movies2.png)
+![](https://github.com/Beetleee/Movies_ETL/blob/main/Resources/D3_movies3.png)
 
 ### movies_df
 
