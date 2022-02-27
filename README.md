@@ -19,11 +19,11 @@ For this Deliverable, I wrote an ETL 'ETL_function_test.ipynb' to read in all th
 ## Deliverable 2: Extract and Transform the Wikipedia Data
 For this Deliverable, I extracted and transformed the Wikipedia-derived data 'ETL_clean_wiki_movies.ipynb' so it could be prepped to merge with the Kaggle metadata.  For this, I used expression strings (to mould the data type for easier merging) and dropped duplicates.
 ### wiki_movies_df  
-![](https://github.com/Beetleee/School_District_Analysis/blob/main/resources/percentages_on_new.png)
+![](https://github.com/Beetleee/Movies_ETL/blob/main/Resources/D2_wiki.png)
 
 ### wiki_movies_df (columns)
 
-![](https://github.com/Beetleee/School_District_Analysis/blob/main/resources/percentages_on_new.png)
+![](https://github.com/Beetleee/Movies_ETL/blob/main/Resources/D2_wiki.png)
 
 ## Deliverable 3: Extract and Transform the Kaggle data
 For this Deliverable, I extracted and transformed the Kaggle data and ratings 'ETL_clean_kaggle_data.ipynb', and merged them similar to Deliverable #2.
