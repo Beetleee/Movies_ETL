@@ -45,6 +45,6 @@ For this Deliverable, I uploaded the transformed movies_df and rating CSV data t
 ![](https://github.com/Beetleee/School_District_Analysis/blob/main/resources/percentages_on_new.png)
 
 ### elapsed time to add the data to the database display…
-![](https://github.com/Beetleee/School_District_Analysis/blob/main/resources/percentages_on_new.png)
+![](https://github.com/Beetleee/Movies_ETL/blob/main/Resources/D4%20seconds.png)
 
 In conclusion, I have successfully cleaned and aligned the files into SQL so that the Client will be able to access straightforward and accurate information.
