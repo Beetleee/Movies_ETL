@@ -4,7 +4,7 @@ Terra Lasho
 ## Project Overview
 In this module, I used the Extract, Transform, Load (ETL) process to create data pipelines which are not only a key step in mass data analysis, but also critical for accessibility to quality data.  This is accomplished by moving and merging data to a destination, while interrogating and transforming it in pieces. For this Module, I used Python script to perform the ETL on extracted Wikipedia and Kaggle data. 
 ## Deliverable 1: Write an ETL Function to Read Three Data Files
-For this Deliverable, I wrote an ETL *ETL_function_test.ipynb to read in all three data files: ‘wiki’, ‘Kaggle’, and ‘ratings’.
+For this Deliverable, I wrote an ETL 'ETL_function_test.ipynb' to read in all three data files: ‘wiki’, ‘Kaggle’, and ‘ratings’.
 ### wiki_movies_df  
 ![](https://github.com/Beetleee/School_District_Analysis/blob/main/resources/percentages_on_new.png)
 
