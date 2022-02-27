@@ -42,7 +42,7 @@ For this Deliverable, I uploaded the transformed movies_df and rating CSV data t
 ![](https://github.com/Beetleee/Movies_ETL/blob/main/Resources/movies_query.png)
 
 ### ratings_query.png (query run from SQL database)
-![](https://github.com/Beetleee/School_District_Analysis/blob/main/resources/percentages_on_new.png)
+![](https://github.com/Beetleee/Movies_ETL/blob/main/Resources/ratings_query.png)
 
 ### elapsed time to add the data to the database display…
 ![](https://github.com/Beetleee/Movies_ETL/blob/main/Resources/D4%20seconds.png)
