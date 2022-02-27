@@ -6,7 +6,7 @@ In this module, I used the Extract, Transform, Load (ETL) process to create data
 ## Deliverable 1: Write an ETL Function to Read Three Data Files
 For this Deliverable, I wrote an ETL 'ETL_function_test.ipynb' to read in all three data files: ‘wiki’, ‘Kaggle’, and ‘ratings’.
 ### wiki_movies_df  
-![]()
+![](https://github.com/Beetleee/Movies_ETL/blob/main/Resources/D1_wiki.png)
 
 ### Kaggle_metadata
 
